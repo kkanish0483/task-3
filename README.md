@@ -6,6 +6,10 @@ A beginner-friendly Node.js REST API built with Express.js to manage books using
 
 This API provides endpoints to list, add, update, and delete books stored in memory. It does not use a database; instead, book records are kept in an array inside the application.
 
+## Screenshot
+
+![Book Manager API Screenshot](screenshot .jpg)
+
 
 ## Installation
 
