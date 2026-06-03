@@ -8,7 +8,7 @@ This API provides endpoints to list, add, update, and delete books stored in mem
 
 ## Screenshot
 
-![Book Manager API Screenshot](screenshot.png)
+![Book Manager API Screenshot](screenshot.jpg)
 ## Installation
 
 1. Clone or download the repository.
